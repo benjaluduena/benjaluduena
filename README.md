@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Benjamin Ludueña</h1>
-<h3 align="center">A passionate software developer</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=30&pause=1000&width=435&lines=Benjamin+Ludue%C3%B1a" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=30&pause=1000&width=435&lines=Software+Developer" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on [P.I.E.P](https://github.com/benjaluduena/Proyecto-P.I.E.P)
 
