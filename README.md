@@ -45,7 +45,7 @@
 
 #### 🗄️ Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,sqlite"/>
 </p>
 
 #### 📊 Data Science & AI  
@@ -56,7 +56,7 @@
 
 #### 🔧 Tools & Others  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,trello" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,visualstudio,vscode" />
 </p>
 
 #### 🤖 AI Tools & IDEs  
