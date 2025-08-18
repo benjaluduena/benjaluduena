@@ -1,6 +1,8 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=30&pause=1000&color=76EBF7&repeat=false&width=435&lines=Benjamin+Ludue%C3%B1a" alt="Typing SVG" /></a> <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=30&pause=1000&color=F71515&width=435&lines=Software+Developer;+Data+Scientist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&size=30&pause=1000&color=F71515&width=435&lines=Software+Developer;+Data+Scientist" alt="Typing SVG" /></a> <br>
+</a>
+
 </h1>
 
 ---
@@ -9,7 +11,8 @@
 - 🔭 Currently working on [**P.I.E.P**](https://github.com/benjaluduena/Proyecto-P.I.E.P) – an intelligent learning platform  
 - 🛠️ Developing [**SoftBox**](https://github.com/benjaluduena/soft-box) – a complete management software for tire shops  
 - 🌐 Created [**Box-Catálogo**](https://github.com/benjaluduena/box-catalogo) – a web catalog for tire shops  
-- 📊 Skilled in **Data Science & Machine Learning** with Python, R, TensorFlow, PyTorch, and Pandas  
+- 📊 Skilled in **Data Science & Machine Learning** with Python, R, TensorFlow, PyTorch, and Pandas
+- ⚡ I enhance my workflow using AI tools & IDEs 
 
 ---
 
@@ -54,6 +57,18 @@
 #### 🔧 Tools & Others  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,postman,trello" />
+</p>
+
+#### 🤖 AI Tools & IDEs  
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor%20IDE-3333FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windsurf-0078D7?style=for-the-badge&logo=surfshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
 </p>
 
 ---
