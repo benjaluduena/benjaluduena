@@ -8,9 +8,6 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 Currently working on [**P.I.E.P**](https://github.com/benjaluduena/Proyecto-P.I.E.P) – an intelligent learning platform  
-- 🛠️ Developing [**SoftBox**](https://github.com/benjaluduena/soft-box) – a complete management software for tire shops  
-- 🌐 Created [**Box-Catálogo**](https://github.com/benjaluduena/box-catalogo) – a web catalog for tire shops  
 - 📊 Skilled in **Data Science & Machine Learning** with Python, R, TensorFlow, PyTorch, and Pandas
 - ⚡ I enhance my workflow using AI tools & IDEs 
 
